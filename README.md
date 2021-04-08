@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Eric @enrichdev-en
 - 👀 I’m interested in Web Development (both front-end and back-end)
-- 🌱 I’m currently learning various front-end and back-end tools
-- 💞️ I’m looking to collaborate on projects of any size.
+- 🛠  I'm expanding my knowledge and application of different web frameworks
+- 💻 I’m building various web projects
+- 💞️ I’m looking to collaborate on web related projects
 - 📫 How to reach me here on GitHub or [twitter](https://twitter.com/enrichdev)
 
 <!---
